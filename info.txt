@@ -1,0 +1,8 @@
+Pablo Garcia Moreno
+
+
+Poseo como mejoras varios botones creados y diseñados por mí aparte de la velocidad controlada
+de ball y resto de objetos como en practicas anteriores
+
+Aparte , he implementado el simple Win y Lose al ganar el nivel y luego tambien
+al pasarme todos los niveles o perder todas las vidas

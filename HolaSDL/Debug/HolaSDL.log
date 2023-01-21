@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (HolaSDL.vcxproj, Practica2PabloEntrega.vcxproj, Practica1.vcxproj, Practica1Pablo.vcxproj, Practica2Pablo.vcxproj, Practica3.vcxproj, Practica3Pablo.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  MapBlock.cpp
+C:\Users\pgmla\Desktop\PORTFOLIO\c++\Practica3Entrega\HolaSDL\GameState.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  HolaSDL.vcxproj -> C:\Users\pgmla\Desktop\PORTFOLIO\c++\Practica3Entrega\bin\Practica3PabloEntregaDebug.exe
